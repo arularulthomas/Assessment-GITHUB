@@ -1,2 +1,1 @@
-Hi Naveen edited local commmit
-Hi Naveen edited remote commit
+Hi Naveen Newbranch2
